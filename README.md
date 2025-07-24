@@ -13,4 +13,6 @@ _This it italic_
 
 ---
 
+Use `git status` to check changes.
+
 [google](https://google.com)
